@@ -5,9 +5,23 @@ h1{
     color:blue;
 }
 table{
+    background-color: khaki;
     border: 2;
+    border-radius: 20px;
     margin: auto;
 }
 #result{
     width:190px;
+}
+.btn{
+    width:34px;
+    height:32px;
+}
+#eq{
+    width:34px;
+    height:64px;
+}
+#zero{
+    width:68px;
+    height:34px;
 }
